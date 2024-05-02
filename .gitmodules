@@ -1,4 +1,4 @@
 [submodule "libhotstuff"]
 	path = libhotstuff
-	url = git@github.com:Pompe-org/libhotstuff.git
+	url = https://github.com/Pompe-org/libhotstuff.git
 	branch = pompe
